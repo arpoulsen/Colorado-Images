@@ -13,6 +13,8 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
+This is a collection of images of the Poulsen family in Colorado from over the years. This is intended to be used as a way to reminence on family history. This collection of images ranges from 2007 to 2022 and features various locations and settings.
+
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
